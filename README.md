@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="CLI foundation banner" />
+</p>
+
 # 🌟 `CLI foundation` — Advancing the Future of Command‑Line Interfaces
 
 Welcome to **cli-foundation** — an open, community‑driven initiative dedicated to improving the design, usability, consistency, and overall experience of command‑line interfaces (CLIs).
