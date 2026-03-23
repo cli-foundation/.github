@@ -139,13 +139,3 @@ Let’s build the future of CLI design — one guideline at a time.
 
 **— The cli-foundation**
 
-***
-
-If you want, I can also help you:
-
-*   Write the README for the `cli-standards` repository
-*   Define the structure of the first standard (v0.1)
-*   Create issue templates, contribution guidelines, or a governance model
-*   Draft the first few pages of the guidelines or examples repos
-
-Just tell me where you want to go next!
